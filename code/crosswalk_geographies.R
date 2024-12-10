@@ -17,7 +17,7 @@ bv.com = read_sf(paste0(path,"/shp/bv2022/com_bv2022_2022.shp")) %>%
   rename("codgeo2022"="codgeo") 
 
 # Open ZE2020 -----
-# The data are in 2020 geography (BV2022 and CODGEO2022)
+# The data are in 2020 geography (ZE2020 and CODGEO2020)
 ze.com = read_sf(paste0(path,"/shp/ze2020/fond_ZE2020_geo20.shp")) %>%
   as.data.frame() %>%
   dplyr::select(code,ze2020) %>%
