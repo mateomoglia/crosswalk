@@ -1,0 +1,37 @@
+﻿nes36;a17;lib_nes36;lib_a17
+A0;AZ;Agriculture, sylviculture et pêche;Agriculture, sylviculture et pêche
+B0;C1;Industries agricoles et alimentaires;Fabrication de denrées alimentaires, de boissons et de produits à base de tabac
+C1;C5;Industrie des biens de consommation (Habillement, Cuir);Fabrication d'autres produits industriels
+C2;C5;Industrie des biens de consommation (Edition, imprimerie, reproduction);Fabrication d'autres produits industriels
+C3;C5;Industrie des biens de consommation (Pharmacie, parfumerie et entretien);Fabrication d'autres produits industriels
+C4;C5;Industrie des biens de consommation (Equipement du foyer);Fabrication d'autres produits industriels
+D0;C4;Industrie automobile;Fabrication de matériels de transport
+E1;C4;Industrie des biens d'équipements (construction navale, aéronautique et ferroviaire);Fabrication de matériels de transport
+E2;C3;Industrie des biens d'équipements (Equipements mécaniques);"Fabrication d'équipements électriques, électroniques, informatiques ; fabrication de machines"
+E3;C3;Industrie des biens d'équipements (Equipements électriques et électroniques);"Fabrication d'équipements électriques, électroniques, informatiques ; fabrication de machines"
+F1;C5;Industrie des biens intermédiaires (Produits minéraux);Fabrication d'autres produits industriels
+F2;C5;Industrie des biens intermédiaires (Industrie textile);Fabrication d'autres produits industriels
+F3;C5;Industrie des biens intermédiaires (Bois et papier);Fabrication d'autres produits industriels
+F4;C5;Industrie des biens intermédiaires (Chimie, caoutchouc, plastiques);Fabrication d'autres produits industriels
+F5;C5;Industrie des biens intermédiaires (Métallurgie et transformation de métaux);Fabrication d'autres produits industriels
+F6;C5;Industrie des biens intermédiaires (Composants électriques et électroniques);Fabrication d'autres produits industriels
+G1;C2;Energie (Production de combustibles et de carburants);Cokéfaction et raffinage
+G2;DE;Energie (Eau, gaz, électricité);Industries extractives, énergie, eau, gestion des déchets et dépollutations
+H0;FZ;Construction;Construction
+J1;GZ;Commerce (Commerce et réparation autombile);"Commerce ; réparation d'automobiles et de motocycles"
+J2;GZ;Commerce (Commerce de gros, intermédiaires);"Commerce ; réparation d'automobiles et de motocycles"
+J3;GZ;Commerce (Commerce de détail, réparations);"Commerce ; réparation d'automobiles et de motocycles"
+K0;HZ;Transports;Transports et entreposage
+L0;KZ;Activités financières;Activités financières et d'assurance
+M0;LZ;Activités immobilières;Activités immobilières
+N1;MN;Services aux entreprises (Postes et télécommunications);"Activités scientifiques et techniques ; services administratifs et de soutien"
+N2;MN;Services aux entreprises (Conseils et assistance);"Activités scientifiques et techniques ; services administratifs et de soutien"
+N3;MN;Services aux entreprises (Services opérationnels);"Activités scientifiques et techniques ; services administratifs et de soutien"
+N4;MN;Services aux entreprises (Recherche et développement);"Activités scientifiques et techniques ; services administratifs et de soutien"
+P1;IZ;Services aux particuliers (Hôtels et restaurants);Hébergement et restauration
+P2;RU;Services aux particuliers (Activités récréatives, culturelles et sportives);Autres activités de services
+P3;RU;Services aux particuliers (Services personnels et domestiques);Autres activités de services
+Q1;OQ;Education, santé, action sociale (Education);Administration publique, enseignement, santé humaine et action sociale
+Q2;OQ;Education, santé, action sociale (Santé, action sociale);Administration publique, enseignement, santé humaine et action sociale
+R1;OQ;Administration (Administration publique);Administration publique, enseignement, santé humaine et action sociale
+R2;OQ;Administration (Activités associatives et extra-territoriales);Administration publique, enseignement, santé humaine et action sociale
